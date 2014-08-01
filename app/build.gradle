@@ -6,10 +6,10 @@ android {
 
     defaultConfig {
         applicationId "com.newthinkank.helloworld.app"
-        minSdkVersion 14
+        minSdkVersion 17
         targetSdkVersion 20
         versionCode 2
-        versionName "1.5"
+        versionName "1.6"
     }
     buildTypes {
         release {
